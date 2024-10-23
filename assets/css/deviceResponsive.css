@@ -1,3 +1,9 @@
+@media screen and (min-width: 1027px) {
+  .pad3 {
+    padding: 3rem !important;
+  }
+}
+
 @media screen and (min-width: 1299px) and (max-width: 1390px) {
   .paradiseHeroSec {
     height: 82vh !important;
